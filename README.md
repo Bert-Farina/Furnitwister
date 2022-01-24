@@ -11,7 +11,7 @@ Para ejecutar el juego ir a la carpeta builds/Windows/x64 y ejecutar el fichero 
 * Movimiento a izquierda y derecha: A y D respectivamente
 * Saltar: Mantener Espacio para controlar el tiempo de salto hasta un máximo (Se puede mover horizontalmente durante el salto)
 * Encogerse: El personaje puede encogerse pulsado Left Shift o S. Si se mueve con A o D o salta mientras está encogido volverá a su tamaño normal.
-* Los tubos que encontrarás como palancas en el mapa, te darán un boost de movimiento, pero ten cuidado, podría no salir a tu favor.
+* Los turbos que encontrarás como palancas en el mapa, te darán un boost de movimiento, pero ten cuidado, podría no salir a tu favor.
 
 ## Datos de desarrollo
 
